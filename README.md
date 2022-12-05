@@ -19,6 +19,7 @@
   
   ## Usage
   
+- Navigate to https://ta-notetaker-express.herokuapp.com/ 
 - To run locally, run "npm start" to begin the backend and using loalhost you can access the front end to create and save notes.
   
   
